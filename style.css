@@ -50,6 +50,7 @@ nav{
     cursor: default;
     opacity: 0;
     animation: slideRight 1s ease forwards;
+    animation-delay: 1s;
 }
 nav ul li{
     display: inline-block;
@@ -566,6 +567,7 @@ nav .fa-solid{
         opacity: 1;
     }
 }
+
 @keyframes slideLeft {
     0%{
         transform: translateX(100px);
