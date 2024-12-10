@@ -599,3 +599,9 @@ nav .fa-solid{
         opacity: 1;
     }
 }
+#msg{
+    color: #61b752;
+    margin-top: -40px;
+    margin-left: 5px;
+    display: block;
+}
